@@ -5,14 +5,11 @@ permalink: /projects/
 ---
 
 Show off your projects here!
-- [Awesome Project]()
-- [Cool Project]()
-- [New Project]()
-- [Old Project]()
-- [Hard Project]()
-- [School Project]()
-- [Project's Project]()
+- [7/24 Live Music Stream - SOON]()
+- [Live Earthquake Prediction - SOON]()
 
-# Talks
-- How to ????
+# Podcasts
+- :) contact me: ferhat@ekofi.science
 
+# Also thanks to
+[Mithat Erdoğan - Civil Engineer](https://www.erdoganmithat.com)
