@@ -2,7 +2,7 @@
 layout: post
 title: "What if the dogs could talk? Dogs are your heart's best friend"
 description: "Dogs are very friendly :S it helps your heart"
-date: 2019-09-01
+date: 2019-09-03
 tags: dogs friend speak speaking cardiovascular psychological health heart
 comments: true
 ---
