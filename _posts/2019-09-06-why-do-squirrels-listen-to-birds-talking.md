@@ -18,7 +18,7 @@ Researchers have known for years that squirrels overheard other types of alarm c
 
 The work, published today in PLOS ONE, implies that even for wildlife, the security language operates on a floating scale. Rather than relying on the absence of an alarm, squirrels listen to the presence of another signal to verify that the shores are clean - even if that means listening to the dialect of another species.
 
-Squirrels are an open target in the forest
+Squirrels are open target in the forest
 -
 Most people may not (ever) care for him, but the flesh of squirrels did not lose its charm with the rest of the animal kingdom. These rodents are the focus of a large number of predators to fear - which means they need all the help they can get.
 
