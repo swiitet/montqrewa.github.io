@@ -7,6 +7,6 @@ tags: future is ours
 comments: false
 ---
 
-C | C | => 5
+C - C => 5
 
 © Jvwfypnoa 2019 - Jhlzhy
