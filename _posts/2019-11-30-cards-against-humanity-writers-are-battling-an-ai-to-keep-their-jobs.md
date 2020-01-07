@@ -20,3 +20,6 @@ The AI isn’t just some random text generator. It’s a legitimate neural netwo
 “This was done by taking that pre-trained network and then training it further on the text of 44,000 white cards. That includes all (roughly) 2,000 cards in the official game, another 25,000 internal brainstorming cards that never made it into the game, and 17,000 unofficial cards from fan-curated lists,” reads the in-depth explanation of the AI on CAH’s website.
 
 “We stopped the training once it could “consistently” produce cards matching the grammar and tone of the game,” “We did this so it didn’t draw too much from already-written cards while still leveraging as much cultural information as possible.” After that, CAH ran a straightforward filtering algorithm to ensure it could pluck out AI-generated cards that matched its standard format and to avoid ones that were too similar to existing cards.
+
+<script src="https://yastatic.net/q/forms-frontend-ext/_/embed.js"></script>
+<iframe src="https://forms.yandex.com/u/5e1487d6c29efb0e75e9248e/?iframe=1" frameborder="0" name="ya-form-5e1487d6c29efb0e75e9248e" width="650"></iframe>
