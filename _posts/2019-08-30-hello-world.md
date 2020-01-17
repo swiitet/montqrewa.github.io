@@ -7,4 +7,3 @@ tags: hello world
 comments: true
 ---
 Hello, World!
-[19.99TL'den satın al](mailto:contact@montqrewa.xyz)
