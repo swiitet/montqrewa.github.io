@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Corvids verdanken ihr großes Gehirn und ihre Intelligenz möglicherweise längeren "Kindheiten", die sie mit Familienmitgliedern verbracht haben"
+title: "Wie Menschen können diese großhirnigen Vögel ihre Intelligenz langen Kindheiten verdanken"
 date: 2020-06-15
-tags: tier wissenschaft corvid corvids writers battle ai keep jobs watch
+tags: tier wissenschaft menschen großhirnigen vögel intelligenz kindheiten
 comments: true
 ---
 ![Corvids](https://images.unsplash.com/photo-1433888376991-1297486ba3f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
