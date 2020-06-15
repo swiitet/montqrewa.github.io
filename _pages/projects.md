@@ -1,7 +1,7 @@
 ---
 layout: content
-title: Projects
-permalink: /projects/
+title: Projekte
+permalink: /projekte/
 ---
 
 Show off your projects here!
