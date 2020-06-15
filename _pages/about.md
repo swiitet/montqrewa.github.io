@@ -1,7 +1,7 @@
 ---
 layout: content
-title: About
-permalink: /about/
+title: Über uns
+permalink: /uber-uns/
 ---
 Hi, I'm Ferhat and I'm talking & writing about future. Thanks for visiting my site.
 
